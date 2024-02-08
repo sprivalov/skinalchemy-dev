@@ -76,7 +76,7 @@ jQuery(document).ready(function(){
 
    initArticlesSwiper = function() {
     
-     buildArticlesSection("/articles/articles_feed-1.json");
+     buildArticlesSection("./articles/articles_feed-1.json");
 
 
 
