@@ -40,7 +40,7 @@ gem "kramdown-parser-gfm"
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "github-pages", "~> 228", group: :jekyll_plugins
+gem "github-pages", "~> 228"
 
 gem "jekyll-paginate-v2", group: :jekyll_plugins
 
